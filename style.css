@@ -1,0 +1,89 @@
+body{
+    font-size: 20px;
+    font-family: 'Cabin', sans-serif;
+    margin: 0px;
+}
+.stay-focused{
+    border-left: 6px solid tomato;
+    padding-left: 12px;
+}
+.stay-focused h1{
+    text-align: left;
+    font-family: 'Lobster', cursive;
+    font-size: 65px;
+}
+.almost-orange{
+    color: rgb(148, 97, 2);
+}
+.almost-grey{
+    color: rgb(41, 41, 41);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.first{
+    display: flex;
+    padding: 75px 150px;
+}
+p{
+    text-align: justify;
+}
+.half{
+    width: 50%;
+}
+.half img{
+    width: 75%;
+}
+.button{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-color:  tomato;
+    color: white;
+    border-radius: 7px;
+    font-weight: 500;
+}
+.m-v-g{
+    border-radius: 10px;
+    margin-right: 15px;
+    padding: 50px 25px;
+}
+.m-v-g img{
+    width: 25%;
+}
+.mission{
+    background-color: thistle;
+}
+.vission{
+    background-color: wheat;
+}
+.goals{
+    background-color: whitesmoke;
+}
+h2{
+    font-size: 50px;
+}
+#exception-first{
+    padding-top: 0px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+footer p{
+    text-align: center;
+    font-weight: lighter;
+}
+.exp img{
+    width: 25%;
+}
+.special{
+    margin-left: 20%;
+    padding: 2px 15px;
+    background-color: tomato;
+    border-radius: 7px;
+}
